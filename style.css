@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman';
+}
+.j{
+    width:100%;
+    height: 100vh;
+    background-image: url(image/i.jpeg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+}
+h1{
+    color: white;
+    background:transparent;
+    border: 1px solid white;
+    border-radius: 20px;
+    outline:none;
+    cursor: pointer;
+    padding: 10px 25px;
+    display: inline-block;
+    margin-top: 5%;
+
+}
+.j{
+     text-align: center;
+}
+table{
+    color:whitesmoke;
+    font-size: 30px;
+    margin:0px;
+}
+form{
+    background: transparent;
+    border:2px double white;
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 5%;
+    padding: 15px;
+}
+hr{
+    margin-top: 10px;
+}
+a{
+    background-color: black;
+    border: solid rgb(143, 43, 43);
+    border-width: 2px;
+
+}
+.link{
+    margin-top: 10px;
+}
+
+
+
